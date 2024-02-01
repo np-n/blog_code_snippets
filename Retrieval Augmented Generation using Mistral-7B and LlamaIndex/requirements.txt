@@ -1,0 +1,6 @@
+pypdf
+torch
+transformers
+sentence-transformers
+llama-index
+llama-cpp-python
