@@ -6,7 +6,7 @@ from langchain_core.messages import AIMessage, HumanMessage
 
 # let's  create the streamlit app
 st.set_page_config(page_title=" Conversational Bot!")
-st.title("Gemini Chatbot 💬")
+st.title("Conversational Chatbot 💬")
 
 # initialize the messages key in streamlit session to store message history
 if "messages" not in st.session_state:
