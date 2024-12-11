@@ -6,3 +6,4 @@
 - [Invoice Extraction Bot using Streamlit and Gemini](Invoice%20Extraction%20Bot%20using%20Streamlit%20and%20Gemini)
 - [youtube_sumohmarization_and_question_answering](youtube_summarization_and_question_answering)
 - [Conversational Bot using Langchain and Gemini](conversational_chatbot_using_langchain_ang_gemini)
+- [hands_on_llm's_quantization](hands_on_llms_quantization)
