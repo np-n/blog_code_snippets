@@ -2,3 +2,4 @@
 .idea/
 .env
 open_source_llms/
+*.__pycache__/
