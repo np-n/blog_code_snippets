@@ -8,3 +8,4 @@
 - [Conversational Bot using Langchain and Gemini](conversational_chatbot_using_langchain_ang_gemini)
 - [hands_on_llm's_quantization](hands_on_llms_quantization)
 - [Retrieval Augmented Generation(RAG) using LangChain and DeepSeek](Retrieval%20Augmented%20Generation%28RAG%29%20using%20LangChain%20and%20DeepSeek)
+- [MCP in Action: Research Assistant](MCP%20in%20Action%3A%20Research%20Assistant)
